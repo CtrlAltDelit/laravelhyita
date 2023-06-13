@@ -1,0 +1,13 @@
+@media only screen and (max-width: 480px) { 
+body { 
+background-image: url("../resources/views/main_phone.jpg");
+
+            background-repeat: no-repeat;
+
+            background-position: center;
+
+            background-size: cover;
+
+            height: 100%;
+} 
+}
